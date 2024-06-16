@@ -53,8 +53,7 @@ body {
 }
 
 .how-to-play {
-  color: black; /* Text color */
-  background-color: white; /* Background color */
+  color: white;
   display: inline-block; /* Changed to inline-block to allow padding and width */
   border: 2px solid black; /* Border */
   border-radius: 10px; /* Rounded corners */
