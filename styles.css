@@ -55,6 +55,7 @@ body {
 .how-to-play {
   
   color: white;
+  display: inline;
   border: 2px solid black;
   border-radius: 10px;
   padding: 20px;
