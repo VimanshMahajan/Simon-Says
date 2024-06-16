@@ -53,15 +53,15 @@ body {
 }
 
 .how-to-play {
-  
-  color: black;
-  background-color: white;
-  display: inline;
-  border: 2px solid black;
-  border-radius: 10px;
-  padding: 20px;
-  width: 50%;
-  margin: 20px auto;
-  font-family: 'Press Start 2P', cursive;
-  text-align: left;
+  color: black; /* Text color */
+  background-color: white; /* Background color */
+  display: inline-block; /* Changed to inline-block to allow padding and width */
+  border: 2px solid black; /* Border */
+  border-radius: 10px; /* Rounded corners */
+  padding: 20px; /* Padding inside the div */
+  width: 50%; /* Width of the div */
+  margin: 20px auto; /* Center the div horizontally with top and bottom margin */
+  font-family: 'Press Start 2P', cursive; /* Font family */
+  text-align: left; /* Text alignment */
 }
+
