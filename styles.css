@@ -51,6 +51,7 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
 .how-to-play {
   background-color: white;
   color: #011F3F;
@@ -61,5 +62,4 @@ body {
   margin: 20px auto;
   font-family: 'Press Start 2P', cursive;
   text-align: left;
-  font-size: 20px;
 }
